@@ -1,4 +1,4 @@
-# Business Intelligence
+# Advanced Sales Forecasting and Marketing Optimization Using Python, Oracle, Machine Learning, and Power BI
 ## Data Analysis and Prediction for Sales
 
 In this analysis, we are examining the sales transaction data across various stores, products, and events. The dataset includes variables such as `Sales`, `Marketing_Spend`, `Customer_Count`, `Temperature`, `Rainfall`, and flags for holidays and events.
@@ -86,12 +86,12 @@ This scatter plot shows the correlation between **Marketing Spend** and **Sales*
 
 ---
 
-### Business Intelligence Pipeline
+### Sales Analysis Pipeline
 This analysis involves a data pipeline for **sales prediction and visualization**. It helps businesses track sales trends, evaluate marketing efforts, and optimize strategies based on insights generated from historical data.
 
 ![Data Pipeline](https://github.com/lewis-hue/oracle-powerbi/blob/main/Data%20Pipeline%20Oracle.png)
 
-- **Sales Data Pipeline**: This pipeline ingests, cleans, and processes data for predictive modeling. It includes various steps such as data preprocessing, feature engineering, model training, and generating sales predictions for visualization.
+- **Sales Analysis Pipeline**: This pipeline ingests, cleans, and processes data for predictive modeling. It includes various steps such as data preprocessing, feature engineering, model training, and generating sales predictions for visualization.
   
 ### 📦 Sales Predictions and Marketing ROI Table
 
