@@ -1,4 +1,4 @@
-# Advanced Sales Forecasting and Marketing Optimization Using Python, Oracle, Machine Learning, and Power BI
+# Sales Forecasting and Marketing Optimization Using Python, Oracle, Machine Learning, and Power BI
 ## Data Analysis and Prediction for Sales
 
 In this analysis, we are examining the sales transaction data across various stores, products, and events. The dataset includes variables such as `Sales`, `Marketing_Spend`, `Customer_Count`, `Temperature`, `Rainfall`, and flags for holidays and events.
