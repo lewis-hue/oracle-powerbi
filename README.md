@@ -89,7 +89,7 @@ This scatter plot shows the correlation between **Marketing Spend** and **Sales*
 ### Business Intelligence Pipeline
 This analysis involves a data pipeline for **sales prediction and visualization**. It helps businesses track sales trends, evaluate marketing efforts, and optimize strategies based on insights generated from historical data.
 
-![Data Pipeline](https://github.com/yourusername/yourrepo/blob/main/data_pipeline_oracle.png)
+![Data Pipeline](https://github.com/lewis-hue/oracle-powerbi/blob/main/Data%20Pipeline%20Oracle.png)
 
 - **Sales Data Pipeline**: This pipeline ingests, cleans, and processes data for predictive modeling. It includes various steps such as data preprocessing, feature engineering, model training, and generating sales predictions for visualization.
   
@@ -112,7 +112,7 @@ This analysis involves a data pipeline for **sales prediction and visualization*
 ---
 
 ### Model Training and Evaluation
-![Model Training](https://github.com/yourusername/yourrepo/blob/main/model_training_oracle.png)
+![Model Training](https://github.com/lewis-hue/oracle-powerbi/blob/main/MODEL%20CODE.png)
 
 #### 🔍 Analysis:
 The model uses **Gradient Boosting** to predict sales based on historical data. The Mean Squared Error (MSE) is evaluated to assess model performance.
